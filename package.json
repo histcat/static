@@ -1,6 +1,6 @@
 {
   "name": "histcat-static",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Somewhere to save static resources for histcat's blog",
   "author": "Histcat"
 }
